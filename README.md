@@ -1,7 +1,7 @@
 # Java Storage / Data Management Application
 Myself and Shaun Conroy developed this project for one of our continuous assessments in the Object Oriented Programming module.
 
-The Java application takes user input to find actor data on a local database, if the actor is not in the database it will check a TV API. Users are given many ways to manipulate the data.
+The Java application takes user input to find actor data on a local database, if the actor is not in the database it will check a TV API and add the actor's data to that database. Users are given many ways to manipulate the data.
 
 A user is welcomed with a menu with the following options:
 
